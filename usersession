@@ -2,7 +2,7 @@ package cafesystem2;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-
+ 
 public class UserSession {
 
     private static UserSession instance;
